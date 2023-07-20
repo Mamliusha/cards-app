@@ -1,0 +1,18 @@
+.Training-card{
+    display: grid;
+    grid-template-rows: 2fr 1fr;
+    align-items: center;
+    justify-items: center;
+    border: 1px solid green;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 15px;
+
+}
+.trainings{
+    width:250px ;
+}
+.translation{
+    background-color: rgba(0, 128, 0, 0.449);
+}

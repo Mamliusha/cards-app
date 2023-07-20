@@ -1,0 +1,12 @@
+.Card{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 2fr 2fr 1fr;
+background:white;
+font-family: 'OpenSans';;
+border: 1px solid red;
+justify-items: center;
+margin: auto;
+padding: auto;
+
+}
